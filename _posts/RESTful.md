@@ -1,1 +1,6 @@
-## Restful(Represeatational State Transfer)
+# Restful(Represeatational State Transfer)
+## 분산 하이퍼미디어 시스템을 위한 소프트웨어 아키텍처의 한 형식
+  
+### REST 아키텍처에 적용되는 6가지 제한 조건
+#### 1. 클라이언트 / 서버 구조
+ - 일관적인 인터페이스로 분리되어야 한다.
